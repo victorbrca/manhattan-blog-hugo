@@ -4,7 +4,7 @@ date: 2020-10-04T21:09:07-04:00
 draft: false
 author: "Victor Mendonça"
 description: "Hello and welcome"
-tags: ["Linux", "Bash"]
+tags: ["about"]
 categories: ["blog"]
 ---
 
