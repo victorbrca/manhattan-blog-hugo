@@ -20,12 +20,19 @@ license = "MIT License"
 licenseURL = "https://opensource.org/licenses/MIT"
 mainSections = ["post"]
 
+# Google Analytics.
+googleAnalytics = "UA-113222099-2"
+
+# Enable Disqus integration
+# DisableComments = false
+disqusShortname = "manhattan-blog"
+
 ## Set custom theme color.
 # themeColor = "#fc2803"
 
 ## Set custom CSS and/or JS to override site defaults.
-# customCss = ["css/blog.css"]
-# customJs = ["js/blog.js"]
+customCss = ["css/blog.css"]
+customJs = ["js/blog.js"]
 
   ## Set as many as you want.
 
