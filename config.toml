@@ -6,6 +6,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
+disqusShortname = "manhattan-blog"
 
 [params]
 author = "Victor Mendonça"
@@ -25,14 +26,14 @@ googleAnalytics = "UA-113222099-2"
 
 # Enable Disqus integration
 # DisableComments = false
-disqusShortname = "manhattan-blog"
+# disqusShortname = "manhattan-blog"
 
 ## Set custom theme color.
 # themeColor = "#fc2803"
 
 ## Set custom CSS and/or JS to override site defaults.
-customCss = ["css/blog.css"]
-customJs = ["js/blog.js"]
+# customCss = ["css/blog.css"]
+# customJs = ["js/blog.js"]
 
   ## Set as many as you want.
 
@@ -99,7 +100,3 @@ customJs = ["js/blog.js"]
   noClasses = true # if false, you need to provide you own custom CSS
   style = "monokai"
   tabWidth = 4
-
-[blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true

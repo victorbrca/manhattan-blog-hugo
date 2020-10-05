@@ -4,6 +4,7 @@ description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us","about-hugo"]
 author = "Hugo Authors"
+DisableComments = true
 +++
 
 Hello, my name is Victor. I'm a technical consultant with over ten years of experience in Manhattan WMOS implementations. I'm specialized in the design and systems integration, taking care of the application and system aspects of the project.
