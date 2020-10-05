@@ -1,4 +1,4 @@
-baseURL = "http://manhattan.victormendonca.com/"
+baseURL = "https://manhattan.victormendonca.com/"
 title = "Manhattan Consulting"
 theme = "soho"
 languageCode = "en"
