@@ -7,6 +7,8 @@ enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
 disqusShortname = "manhattan-blog"
+# Google Analytics
+googleAnalytics = "UA-113222099-2"
 
 [params]
 author = "Victor Mendonça"
@@ -20,9 +22,6 @@ copyright = "Victor Mendonça"
 license = "MIT License"
 licenseURL = "https://opensource.org/licenses/MIT"
 mainSections = ["post"]
-
-# Google Analytics.
-googleAnalytics = "UA-113222099-2"
 
 # Enable Disqus integration
 # DisableComments = false
