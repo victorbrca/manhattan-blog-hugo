@@ -86,19 +86,19 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.75rem;
+  font-size: 1.25rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 
 /* Body text */
@@ -152,10 +152,10 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 96%;
+  font-size: 85%;
   color: #b3555e;
-  background-color: #f0f0f0;
-  border-radius: 4px;
+  background-color: #f9f9f9;
+  border-radius: 3px;
 }
 pre {
   display: block;
@@ -211,6 +211,7 @@ img {
 /* Tables */
 table {
   margin-bottom: 1rem;
+  width: 100%;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
 }
